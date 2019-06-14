@@ -1,0 +1,10 @@
+Kiểm tra thiết bị :
+- adb devices
+- adb kill-Server
+- adb usb
+- adb tcpip 5556 (set port khi connect wifi)
+- adb connect "192.168.137.182:5556" (Lấy địa chỉ ip của device)
+
+- React Native Paper ( thư viện components )
+
+adb reverse tcp:8081 tcp:8081
